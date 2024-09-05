@@ -15,8 +15,11 @@
   <summary>Скриншоты </summary>
   <p align="center">
   <img src="resources/Simple-platformer/achievements.png">
+  <em>Достижения</em>
   <img src="resources/Simple-platformer/skins.png">
+  <em>Магазин скинов</em>
   <img src="resources/Simple-platformer/levels.png">
+  <em>Выбор уровней</em>
   </p>
 </details>
 
@@ -35,8 +38,11 @@
   <summary>Скриншоты </summary>
   <p align="center">
   <img src="resources/Space-shooter/characters.png">
+  <em>Выбор персонажа</em>
   <img src="resources/Space-shooter/upgrades.png">
-  <img src="resources/Space-shooter/levels.png">
+  <em>Выбор апгрейда</em>
+  <img src="resources/Space-shooter/gems.png">
+  <em>Получение реликвий</em>
   </p>
 </details>
 
