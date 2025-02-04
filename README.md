@@ -13,8 +13,8 @@
 <details open>
   <summary>Скриншоты: </summary>
   <p align="left">
-  <img src="resources/Tower-defense/tower_defense_gameplay.png" alt="tower_defense_gameplay" width ="80%" />
-  <img src="resources/Tower-defense/tower_defense_skill_selection.png" width ="80%" />
+  <img src="resources/Tower-defense/tower_defense_gameplay.png" alt="tower_defense_gameplay" width ="70%" />
+  <img src="resources/Tower-defense/tower_defense_skill_selection.png" width ="70%" />
   </p>
 </details>
 
@@ -49,7 +49,7 @@
 <details open>
   <summary>Скриншоты: </summary>
   <p align="left">
-  <img src="resources/Match3/match3_example_level_2.png" width ="80%" />
+  <img src="resources/Match3/match3_example_level_2.png" width ="70%" />
   </p>
 </details>
 
@@ -65,7 +65,7 @@
 <details open>
   <summary>Скриншоты: </summary>
   <p align="left">
-  <img src="resources/Bubble-shooter/bubble_shooter_gameplay.png" width ="80%" />
+  <img src="resources/Bubble-shooter/bubble_shooter_gameplay.png" width ="70%" />
   </p>
 </details>
 
@@ -81,7 +81,7 @@
 <details open>
   <summary>Скриншоты: </summary>
   <p align="left">
-  <img src="resources/Pop-the-balls/pop_the_balls_gameplay.png" width ="80%" />
+  <img src="resources/Pop-the-balls/pop_the_balls_gameplay.png" width ="70%" />
   </p>
 </details>
 
@@ -116,7 +116,7 @@
 <details open>
   <summary>Скриншоты: </summary>
   <p align="left">
-  <img src="resources/Red-heat-gift-rescue/red_heat_gift_rescue.png" width ="80%" />
+  <img src="resources/Red-heat-gift-rescue/red_heat_gift_rescue.png" width ="70%" />
   </p>
 </details>
 
@@ -132,9 +132,9 @@
 <details open>
   <summary>Скриншоты: </summary>
   <p align="left">
-  <img src="resources/Space-shooter/space_shooter_demo_gameplay.gif" width ="100%" />
-  <img src="resources/Space-shooter/space_shooter_characters.png" width ="100%" />
-  <img src="resources/Space-shooter/space_shooter_upgrades.png" width ="100%" />
-  <img src="resources/Space-shooter/space_shooter_gems.png" width ="100%" />
+  <img src="resources/Space-shooter/space_shooter_demo_gameplay.gif" width ="70%" />
+  <img src="resources/Space-shooter/space_shooter_characters.png" width ="70%" />
+  <img src="resources/Space-shooter/space_shooter_upgrades.png" width ="70%" />
+  <img src="resources/Space-shooter/space_shooter_gems.png" width ="70%" />
   </p>
 </details>
