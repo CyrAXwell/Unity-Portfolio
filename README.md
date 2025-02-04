@@ -13,8 +13,8 @@
 <details open>
   <summary>Скриншоты: </summary>
   <p align="left">
-  <img src="resources/Tower-defense/tower_defense_gameplay.png" alt="tower_defense_gameplay" width ="49%" />
-  <img src="resources/Tower-defense/tower_defense_skill_selection.png" width ="49%" />
+  <img src="resources/Tower-defense/tower_defense_gameplay.png" alt="tower_defense_gameplay" width ="100%" />
+  <img src="resources/Tower-defense/tower_defense_skill_selection.png" width ="100%" />
   </p>
 </details>
 
